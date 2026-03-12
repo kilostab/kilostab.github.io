@@ -1,5 +1,12 @@
 <html>
 <title>doto is cute</title>
+  <head>
+<style>
+  a{
+    display:none;
+  }
+</style>
+  </head>
 <body>
 <div class="tenor-gif-embed" data-postid="2993082032225703231" data-share-method="host" data-aspect-ratio="1" data-width="100%">
 </div>
